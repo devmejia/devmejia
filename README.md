@@ -4,8 +4,8 @@ My nombre es Edinson, Ingeniero de sistemas de profesión y Desarrollador
 
 #Skill
 
-*Git
-*Codeigniter
-*Laravel
-*Angular
+*Git<br>
+*Codeigniter<br>
+*Laravel<br>
+*Angular<br>
 *Node.js
